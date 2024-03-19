@@ -34,6 +34,7 @@ cd ransom-tools
 
 #!/bin/bash
 
+exit
 
 Features
 This repository includes a variety of features specific to ransomware tools, including but not limited to:
@@ -48,5 +49,3 @@ This repository includes a variety of features specific to ransomware tools, inc
 Please note that these features are provided solely for educational and testing purposes. Engaging in any illegal, harmful, or malicious activities using these features is strictly prohibited and goes against ethical guidelines.
 Disclaimer
 This project is intended for educational and testing purposes only. The creator of this repository does not endorse or support any illegal or malicious activities. The use of the code or any resources from this repository for any illegal, harmful, or malicious activities is strictly prohibited. By accessing, downloading, or utilizing any part of this repository, you acknowledge that you are solely responsible for your actions, and any consequences that may arise. The creator of this repository will not be held liable for any misuse, damage, or unlawful actions resulting from the use of this repository or any of its contents.
-
-![Alt](https://repobeats.axiom.co/api/embed/9109473d4d4bf4f8a80976bf4f1d612b199461ef.svg "Repobeats analytics image")
