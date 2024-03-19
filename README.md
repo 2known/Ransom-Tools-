@@ -50,6 +50,8 @@ This repository includes a variety of features specific to ransomware tools, inc
     User Data Extraction
     ...and more!
 
+## Disclaimer 
+
 It's important to note that these features are included solely for educational and testing purposes. Utilizing them for any illegal, harmful, or malicious activities is strictly prohibited and contrary to ethical principles.
 Disclaimer
 This project is intended for educational and testing purposes only. The creator of this repository does not endorse or support any illegal or malicious activities. The use of the code or any resources from this repository for any illegal, harmful, or malicious activities is strictly prohibited. By accessing, downloading, or utilizing any part of this repository, you acknowledge that you are solely responsible for your actions, and any consequences that may arise. The creator of this repository will not be held liable for any misuse, damage, or unlawful actions resulting from the use of this repository or any of its contents.
