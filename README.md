@@ -39,7 +39,10 @@ git clone https://github.com/your-username/ransom-tools.git
 cd ransom-tools
 
     You're now ready to explore the code and resources available in the repository.
-```bash
+#!/bin/bash
+
+exit
+
 
 
 ## Features
