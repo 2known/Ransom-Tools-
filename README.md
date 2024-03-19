@@ -23,7 +23,7 @@ Please note that using the code or any resources from this repository for any il
 To download and explore the repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
-```bash
+
 git clone https://github.com/your-username/ransom-tools.git
 
     Navigate to the project directory:
@@ -31,10 +31,6 @@ git clone https://github.com/your-username/ransom-tools.git
 cd ransom-tools
 
     You're now ready to explore the code and resources available in the repository.
-
-#!/bin/bash
-
-exit
 
 Features
 This repository includes a variety of features specific to ransomware tools, including but not limited to:
