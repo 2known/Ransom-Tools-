@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/your-username/ransom-tools"><img src="https://img.shields.io/github/languages/top/your-username/ransom-tools"></a>
-   <a href="https://github.com/your-username/ransom-tools/stargazers"><img src="https://img.shields.io/github/stars/your-username/ransom-tools"></a>
+   <a href="https://github.com/2known/ransom-tools-"><img src="https://img.shields.io/github/languages/top/your-username/ransom-tools"></a>
+   <a href="https://github.com/2known/ransom-tools-/stargazers"><img src="https://img.shields.io/github/stars/2known/ransom-tools-"></a>
    <a href="https://github.com/your-username/ransom-tools/network/members"><img src="https://img.shields.io/github/forks/your-username/ransom-tools"></a>
 </p>
 
