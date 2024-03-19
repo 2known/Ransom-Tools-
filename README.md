@@ -34,7 +34,6 @@ cd ransom-tools
 
 #!/bin/bash
 
-exit
 
 Features
 This repository includes a variety of features specific to ransomware tools, including but not limited to:
